@@ -1,5 +1,5 @@
-create database estructura;
-use estructura;
+create database mydb;
+use mydb;
 CREATE TABLE butaca_sesion (
   id_sesion INT NOT NULL,
   id_butaca INT NOT NULL,
