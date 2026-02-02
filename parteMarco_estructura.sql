@@ -1,4 +1,4 @@
-USE estructura;
+USE mydb;
 
 CREATE TABLE venta (
 id_venta INT NOT NULL AUTO_INCREMENT,
